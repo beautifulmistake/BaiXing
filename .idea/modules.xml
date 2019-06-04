@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../HuaWeiMarketRedis/.idea/HuaWeiMarketRedis.iml" filepath="$PROJECT_DIR$/../../HuaWeiMarketRedis/.idea/HuaWeiMarketRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../SanXing/.idea/SanXing.iml" filepath="$PROJECT_DIR$/../../SanXing/.idea/SanXing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TaoBaoRedisSpider/.idea/TaoBaoRedisSpider.iml" filepath="$PROJECT_DIR$/../../TaoBaoRedisSpider/.idea/TaoBaoRedisSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ViVoSpider/.idea/ViVoSpider.iml" filepath="$PROJECT_DIR$/../../ViVoSpider/.idea/ViVoSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/baixing.iml" filepath="$PROJECT_DIR$/.idea/baixing.iml" />
+      <module fileurl="file://F:/进阶学习/baidu_qixin_with_docker-master-788369783e5c5381c3e728e8bfda49a4e6011365/redis-data/.idea/redis-data.iml" filepath="F:/进阶学习/baidu_qixin_with_docker-master-788369783e5c5381c3e728e8bfda49a4e6011365/redis-data/.idea/redis-data.iml" />
+    </modules>
+  </component>
+</project>
