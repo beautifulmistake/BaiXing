@@ -8,7 +8,7 @@ def get_proxies():
     """
     # API 请求,修改account可修改请求的数量
     # url = 'http://api.xdaili.cn/xdaili-api//privateProxy/applyStaticProxy?spiderId=5b817f58bea74822a6c369e567e278bc&returnType=2&count=1'
-    url = 'http://39.107.59.59/get'
+    url = 'your proxy url'
     # 发送请求获取响应
     results = json.loads(requests.get(url).text)['RESULT']
     print("查看获取的响应：", results)
